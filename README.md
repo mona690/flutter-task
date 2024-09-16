@@ -1,6 +1,11 @@
-# my_car_project
+#flutter-task
 
 A new Flutter project.
+
+![image](https://github.com/user-attachments/assets/61193fa6-30c0-439a-bcd6-420c3562c366)
+![image](https://github.com/user-attachments/assets/5116830d-2aba-468d-9269-8b5995f25632)
+
+
 
 ## Getting Started
 
